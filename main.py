@@ -1,8 +1,7 @@
 import telebot
+from api import key
 
 
-
-key = '6886283736:AAEgEXByx3CM39IAOFe6mwNtqitWmypftMo'
 bot = telebot.TeleBot(key)
 
 
